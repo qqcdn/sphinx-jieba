@@ -7,7 +7,7 @@ Sphinx for Chinese with cppJieba
 ### 解压
 
 ```
-$ git clone https://github.com/c4ys/sphinx-jieba
+$ git clone https://github.com/qqcdn/sphinx-jieba
 $ cd sphinx-jieba
 $ git submodule update --init --recursive
 ```
